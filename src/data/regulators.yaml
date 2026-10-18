@@ -1848,6 +1848,7 @@ countries:
       - id: austria
         name:
           en: "Austria"
+          tr: "Avusturya"
           de: "Österreich"
           zh-CN: "奥地利"
           zh-TW: "奧地利"
@@ -1860,6 +1861,7 @@ countries:
       - id: denmark
         name:
           en: "Denmark"
+          tr: "Danimarka"
           da: "Danmark"
           pl: "Dania"
           zh-CN: "丹麦"
@@ -1979,6 +1981,7 @@ countries:
       - id: lithuania
         name:
           en: "Lithuania"
+          tr: "Litvanya"
           pl: "Litwa"
           zh-CN: "立陶宛"
           zh-TW: "立陶宛"
@@ -2032,6 +2035,7 @@ countries:
       - id: hungary
         name:
           en: "Hungary"
+          tr: "Macaristan"
           hu: "Magyarország"
           pl: "Węgry"
           zh-CN: "匈牙利"
@@ -2644,6 +2648,7 @@ countries:
   - id: new-zealand
     name:
       en: "Aotearoa / New Zealand"
+      tr: "Aotearoa / Yeni Zelanda"
       pt-BR: "Aotearoa / Nova Zelândia"
       pl: "Nowa Zelandia"
       zh-CN: "奥特亚罗瓦/新西兰"
@@ -2994,6 +2999,7 @@ countries:
   - id: hongkongsar
     name:
       en: "Hong Kong SAR"
+      tr: "Hong Kong ÖİB"
       pl: "Hongkong"
       zh-CN: "香港"
       zh-TW: "香港"
@@ -3507,6 +3513,7 @@ countries:
     name:
         ar: "جمهورية مصر العربية"
         en: "Egypt"
+        tr: "Mısır"
         pl: "Egipt"
         pt-BR: "Egito"
         zh-CN: "埃及"
@@ -3527,6 +3534,7 @@ countries:
   - id: hungary
     name:
       en: "Hungary"
+      tr: "Macaristan"
       hu: "Magyarország"
       pl: "Węgry"
       pt-BR: "Hungria"
@@ -3548,6 +3556,7 @@ countries:
   - id: colombia
     name:
       en: "Colombia"
+      tr: "Kolombiya"
       es: "Colombia"
       pl: "Kolumbia"
       pt-BR: "Colômbia"
